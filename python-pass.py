@@ -46,6 +46,6 @@ string3 = "a"
 
 ########################################
 # Example 4:
-string4 = "a"
+string4 = "ab"
 print(string4[0])
 
