@@ -46,6 +46,6 @@ string3 = "a"
 
 ########################################
 # Example 4:
-string3 = "a"
-print(string3[0])
+string4 = "a"
+print(string4[0])
 
